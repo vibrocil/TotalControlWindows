@@ -7,4 +7,4 @@ This application let's your login to the particle photon cloud and automaticly m
 "F11" goes fullscreen
 
 
-[[https://github.com/vibrocil/TotalControl/blob/master/screenshot.ong|alt=octocat]]
+[https://github.com/vibrocil/TotalControl/blob/master/screenshot.ong|alt=octocat]
